@@ -7,7 +7,7 @@ public:
                 s.emplace_back(nums[i]);
             }
             else{
-                *lower_bound(s.begin(), s.end(), nums[i]) = nums[i];
+                *lower_bound(s.begin(), s.end(), nums[i], [](int x, int y){return x < y;}) = nums[i];
             }
         }
         return s.size();
