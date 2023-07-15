@@ -22,16 +22,6 @@ public:
                 }
             }
         }
-        if((int)ss.size() != (int)tt.size()){
-            return false;
-        }
-        while(!ss.empty()){
-            if(ss.top() != tt.top()){
-                return false;
-            }
-            ss.pop();
-            tt.pop();
-        }
-        return true;
+        return ss == tt;
     }
 };
