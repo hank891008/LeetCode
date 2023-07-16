@@ -17,8 +17,6 @@ public:
                 break;
             }
             maxx = max(maxx, now);
-            cout << power << ' ' << now << '\n';
-            cout << maxx << '\n';
         }
         return maxx;
     }
