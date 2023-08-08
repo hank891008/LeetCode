@@ -35,6 +35,6 @@ public:
                 return m[descriptions[i][0]];
             }
         }
-        return m[0];
+        return NULL;
     }
 };
