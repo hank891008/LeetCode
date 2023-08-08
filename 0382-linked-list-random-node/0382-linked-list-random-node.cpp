@@ -24,7 +24,6 @@ public:
         int chosen;
         while(curr != NULL){
             float r = (float)rand() / RAND_MAX;
-            cout << r << ' ' << 1.0 / cnt << '\n';
             if(r < 1.0 / cnt){
                 chosen = curr->val;
             }
