@@ -18,12 +18,12 @@ public:
     }
     
     int current() {
-        auto last = --m.end();
+        auto last = m.rbegin();
         return last->second;
     }
     
     int maximum() {
-        auto l = --minmax.end();
+        auto l = minmax.rbegin();
         return l->first;
     }
     
