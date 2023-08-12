@@ -1,19 +1,17 @@
 class Solution {
 public:
-    int findTargetSumWays(vector<int>& nums, int target) {
-        // idx, target -> no of ways
-        map<pair<int, int>, int> memo;
-        return dp(nums, target, 0, memo); 
+    map<pair<int, int>, int> m;
+    int solve(vector<int>&v, int idx, int target){
+        if(idx == v.size()){
+            return target == 0;
+        }
+        if(m.count({idx, target})){
+            return m[{idx, target}];
+        }
+        return m[{idx, target}] = solve(v, idx + 1, target - v[idx]) + solve(v, idx + 1, target + v[idx]);
+        
     }
-
-private:
-    int dp(vector<int>& nums, int target, int idx, map<pair<int, int>, int>& memo) {
-        if (idx == nums.size()) return target == 0;
-        if (memo.count({idx, target})) return memo[{idx, target}];
-
-        int positive = dp(nums, target + nums[idx], idx + 1, memo);
-        int negative = dp(nums, target - nums[idx], idx + 1, memo);
-
-        return memo[{idx, target}] = positive + negative;
+    int findTargetSumWays(vector<int>& nums, int target) {
+        return solve(nums, 0, target);
     }
 };
