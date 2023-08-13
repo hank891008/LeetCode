@@ -10,17 +10,15 @@ public:
             return check[idx];
         }
         bool ans = false;
+        bool tmp;
         if(idx + 1 < nums.size() && nums[idx] == nums[idx + 1]){
-            check[idx + 2] = dp(nums, idx + 2, check);
-            ans |= check[idx + 2];
+            ans |= check[idx + 2] = dp(nums, idx + 2, check);
         }
         if(idx + 2 < nums.size() && nums[idx] == nums[idx + 1] && nums[idx] == nums[idx + 2]){
-            check[idx + 3] = dp(nums, idx + 3, check);
-            ans |= check[idx + 3];
+            ans |= check[idx + 3] = dp(nums, idx + 3, check);
         }
         if(idx + 2 < nums.size() && nums[idx] + 1 == nums[idx + 1] && nums[idx + 1] + 1 == nums[idx + 2]){
-            check[idx + 3] = dp(nums, idx + 3, check);
-            ans |= check[idx + 3];
+            ans |= check[idx + 3] = dp(nums, idx + 3, check);
         }
         return check[idx] = ans;
     }
