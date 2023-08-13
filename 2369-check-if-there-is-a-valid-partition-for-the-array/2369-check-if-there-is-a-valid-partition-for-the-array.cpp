@@ -1,28 +1,32 @@
 class Solution {
 public:
     bool flag = 0;
-    bool dp(vector<int>& nums, int idx, map<int, bool>& m){
+    bool dp(vector<int>& nums, int idx, int check[]){
         if(idx == nums.size() || flag == 1){
             flag = 1;
             return true;
         }
-        if(m.count(idx)){
-            return m[idx];
+        if(check[idx] != -1){
+            return check[idx];
         }
         bool ans = false;
         if(idx + 1 < nums.size() && nums[idx] == nums[idx + 1]){
-            ans |= dp(nums, idx + 2, m);
+            check[idx + 2] = dp(nums, idx + 2, check);
+            ans |= check[idx + 2];
         }
         if(idx + 2 < nums.size() && nums[idx] == nums[idx + 1] && nums[idx] == nums[idx + 2]){
-            ans |= dp(nums, idx + 3, m);
+            check[idx + 3] = dp(nums, idx + 3, check);
+            ans |= check[idx + 3];
         }
         if(idx + 2 < nums.size() && nums[idx] + 1 == nums[idx + 1] && nums[idx + 1] + 1 == nums[idx + 2]){
-            ans |= dp(nums, idx + 3, m);
+            check[idx + 3] = dp(nums, idx + 3, check);
+            ans |= check[idx + 3];
         }
-        return m[idx] = ans;
+        return check[idx] = ans;
     }
     bool validPartition(vector<int>& nums) {
-        map<int, bool> m;
-        return dp(nums, 0, m);
+        int check[nums.size() + 5];
+        memset(check, -1, sizeof(check));
+        return dp(nums, 0, check);
     }
 };
