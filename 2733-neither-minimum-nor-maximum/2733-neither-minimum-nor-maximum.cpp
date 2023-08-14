@@ -9,6 +9,9 @@ public:
         for(int num: nums){
             minn = min(minn, num);
             maxx = max(maxx, num);
+            if(num > minn && num < maxx){
+                return num;
+            }
         }
         for(int num: nums){
             if(num > minn && num < maxx){
