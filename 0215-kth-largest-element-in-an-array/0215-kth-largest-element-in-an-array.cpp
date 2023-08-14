@@ -1,7 +1,7 @@
 class Solution {
 public:
     int solve(vector<int>& nums, int k){
-        int p = nums[(int)nums.size() - 1];
+        int p = nums[rand() % nums.size()];
         vector<int>l, m, r;
         for(int i = 0; i < nums.size(); i++){
             if(nums[i] > p){
