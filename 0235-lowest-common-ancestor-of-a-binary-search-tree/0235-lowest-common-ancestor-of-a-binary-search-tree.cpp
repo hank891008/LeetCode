@@ -15,7 +15,7 @@ public:
             swap(p, q);
         }
         while(!(p->val <= root->val && q->val >= root->val)){
-            if(root->left != NULL && p->val < root->val && q->val < root->val){
+            if(p->val < root->val && q->val < root->val){
                 root = root->left;
             }
             else{
