@@ -5,7 +5,7 @@ public:
         if(idx == words.size()){
             return 0;
         }
-        if(used[idx][s][e] != -1){
+        if(used[idx][s][e] != 0){
             return used[idx][s][e];
         }
         int first = words[idx].front() - 'a';
@@ -17,7 +17,6 @@ public:
         
     }
     int minimizeConcatenatedLength(vector<string>& words) {
-        memset(used, -1, sizeof(used));
         return words[0].size() + dfs(1, words[0].front() - 'a', words[0].back() - 'a', words);
     }
 };
