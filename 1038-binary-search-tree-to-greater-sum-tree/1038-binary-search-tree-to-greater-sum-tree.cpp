@@ -12,14 +12,13 @@
 class Solution {
 public:
     void solve(TreeNode* root, int& tot){
-        if(root->right){
-            solve(root->right, tot);
+        if(!root){
+            return;
         }
+        solve(root->right, tot);
         root->val += tot;
         tot = root->val;
-        if(root->left){
-            solve(root->left, tot);
-        }
+        solve(root->left, tot);
     }
     TreeNode* bstToGst(TreeNode* root) {
         int tot = 0;
