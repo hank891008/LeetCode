@@ -1,8 +1,8 @@
 class Solution {
 public:
     int partitionString(string s) {
-        set<char>Set;
-        int ans = 0;
+        unordered_set<char>Set;
+        int ans = 1;
         for(int i = 0; i < s.size(); i++){
             if(!Set.count(s[i])){
                 Set.insert(s[i]);
@@ -12,9 +12,6 @@ public:
                 Set.insert(s[i]);
                 ans++;
             }
-        }
-        if(!s.empty()){
-            ans++;
         }
         return ans;
     }
