@@ -12,9 +12,7 @@ public:
                     dp[i + 1][j] += fall;
                     dp[i + 1][j + 1] += fall;
                 }
-                cout << dp[i][j] << ' ';
             }
-            cout << '\n';
         }
         return dp[query_row][query_glass];
     }
