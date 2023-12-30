@@ -1,14 +1,12 @@
 class SmallestInfiniteSet {
 public:
     set<int>s;
-    
+    int curr = 1;
     SmallestInfiniteSet() {
-        for(int i = 1; i <= 1000; i++){
-            s.insert(i);
-        }
     }
     
     int popSmallest() {
+        s.insert(curr++);
         int ret = *s.begin();
         s.erase(ret);
         return ret;
