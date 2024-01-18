@@ -1,10 +1,16 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        int ans[50] = {0, 1, 2};
-        for(int i = 3; i <= n; i++){
-            ans[i] = (ans[i - 1] + ans[i - 2]);
+        int a = 1, b = 2;
+        if(n <= 2){
+            return n;
         }
-        return ans[n];
+        int c;
+        for(int i = 3; i <= n; i++){
+            c = a + b;
+            a = b;
+            b = c;
+        }
+        return c;
     }
 };
