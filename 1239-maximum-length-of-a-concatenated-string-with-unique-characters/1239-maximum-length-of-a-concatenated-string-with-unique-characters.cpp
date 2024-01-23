@@ -17,24 +17,16 @@ public:
         }
         return tot;
     }
-    void dfs(int idx, vector<string>& arr){
-        for(int i = idx + 1; i < arr.size(); i++){
-            if(!used[i]){
-                now.emplace_back(arr[i]);
-                int chk = check();
-                if(chk != -1){
-                    used[i] = true;
-                    ans = max(ans, chk);
-                    dfs(i, arr);
-                }
-                now.pop_back();
-                used[i] = false;
-            }
-        }
-    }
-    
     int maxLength(vector<string>& arr) {
-        dfs(-1, arr);
+        for(int i = 0; i < (1 << arr.size()); i++){
+            now.clear();
+            for(int j = 0; j < arr.size(); j++){
+                if((i >> j) & 1){
+                    now.emplace_back(arr[j]);
+                }
+            }
+            ans = max(ans, check());
+        }
         return ans;
     }
 };
