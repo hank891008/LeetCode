@@ -2,26 +2,19 @@ class Solution {
 public:
     int countHomogenous(string s) {
         int MOD = 1e9 + 7;
-        string prev;
-        prev += s[0];
-        map<string, int>m;
-        string tmp;
-        for(int i = 1; i < s.size(); i++){
-            if(prev.back() == s[i]){
-                prev += s[i];
+        char prev = ' ';
+        int tot = 0;
+        long long len = 1;
+        for(int i = 0; i < s.size(); i++){
+            if(prev == s[i]){
+                len++;
             }
             else{
-                m[prev]++;
-                prev.clear();
-                prev += s[i];
+                prev = s[i];
+                tot = (tot + ((1 + len) * len) / 2) % MOD;
+                len = 1;
             }
         }
-        m[prev]++;
-        int tot = 0;
-        for(auto [x, y]: m){ 
-            long long sum = y * ((1 + x.size()) * x.size()) / 2 % MOD;
-            tot = (tot + sum) % MOD;
-        }
-        return tot;
+        return (tot + (1 + len) * len / 2) % MOD - 1;
     }
 };
