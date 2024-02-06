@@ -1,21 +1,21 @@
 class Solution {
 public:
+    vector<int> count_alpha(string st){
+        vector<int> alpha(26);
+        for(int i = 0; i < st.size(); i++){
+            alpha[st[i] - 'a']++;
+        }
+        return alpha;
+    }
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        map<string,vector<string>> m;
-        for(int i =0;i<strs.size();i++){
-            string ch = strs[i];
-            sort(ch.begin(),ch.end());
-            m[ch].push_back(strs[i]);
+        map<vector<int>, vector<string>> m;
+        for(auto str: strs){
+            m[count_alpha(str)].emplace_back(str);
         }
-        vector<vector<string>> v(m.size());
-        int indc = 0;
-        for(auto i : m){
-            vector<string> v1 = i.second;
-            for(int j = 0;j<v1.size();j++){
-                    v[indc].push_back(v1[j]);
-            }
-            indc++;
+        vector<vector<string>> ans;
+        for(auto [_, v]: m){
+            ans.emplace_back(v);
         }
-        return v;
+        return ans;
     }
 };
