@@ -3,10 +3,7 @@ public:
     const int MAXN = 0x3f3f3f3f;
     int minPathCost(vector<vector<int>>& grid, vector<vector<int>>& moveCost) {
         int n = grid.size(), m = grid[0].size();
-        vector<vector<int>> ans(2, vector<int>(m, MAXN));
-        for(int i = 0; i < m; i++){
-            ans[0][i] = grid[0][i];
-        }
+        vector<vector<int>> ans(2, grid[0]);
         int ret = MAXN;
         for(int i = 1; i < n; i++){
             for(int j = 0; j < m; j++){
