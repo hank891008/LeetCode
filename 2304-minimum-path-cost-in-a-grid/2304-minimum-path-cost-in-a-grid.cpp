@@ -10,12 +10,12 @@ public:
         int ret = MAXN;
         for(int i = 1; i < n; i++){
             for(int j = 0; j < m; j++){
-                ans[i % 2][j] = MAXN;
+                ans[i & 1][j] = MAXN;
                 for(int k = 0; k < m; k++){
-                    ans[i % 2][j] = min(ans[i % 2][j], grid[i][j] + ans[(i - 1) % 2][k] + moveCost[grid[i - 1][k]][j]);
+                    ans[i & 1][j] = min(ans[i & 1][j], grid[i][j] + ans[i & 1 ^ 1][k] + moveCost[grid[i - 1][k]][j]);
                 }
                 if(i == n - 1){
-                    ret = min(ret, ans[i % 2][j]);
+                    ret = min(ret, ans[i & 1][j]);
                 }
             }
         }
