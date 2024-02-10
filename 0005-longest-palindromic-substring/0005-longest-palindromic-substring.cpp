@@ -1,21 +1,20 @@
 class Solution {
 public:
-    string solve(int l, int r, string s){
-        string st;
-        while(l >= 0 && r < s.size() && s[l] == s[r]){
-            st = s.substr(l, r - l + 1);
+    string ans;
+    void solve(int l, int r, string &s){
+        while(l >= 0 && r < s.size()){
+            if(s[l] != s[r]){
+                break;
+            }
             l--;
             r++;
         }
-        return st;
+        ans = ans.size() > (r - 1) - (l + 1) + 1 ? ans : s.substr(l + 1, (r - 1) - (l + 1) + 1);
     }
     string longestPalindrome(string s) {
-        string ans;
         for(int i = 0; i < s.size(); i++){
-            string tmp = solve(i, i, s);
-            ans = ans.size() > tmp.size()  ? ans : tmp;
-            tmp = solve(i, i + 1, s);
-            ans = ans.size() > tmp.size()  ? ans : tmp;
+            solve(i, i, s);
+            solve(i, i + 1, s);
         }
         return ans;
     }
