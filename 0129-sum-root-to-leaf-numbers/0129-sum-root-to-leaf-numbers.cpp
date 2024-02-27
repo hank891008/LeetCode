@@ -11,19 +11,22 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root, int tot){
+    int ans = 0;
+    void dfs(TreeNode* root, int tot){
         if(!root){
-            return 0;
+            return;
         }
         if(!root->left && !root->right){
-            return 10 * tot + root->val;
+            ans += 10 * tot + root->val;
         }
-        return dfs(root->left, 10 * tot + root->val) + dfs(root->right, 10 * tot + root->val);
+        dfs(root->left, 10 * tot + root->val);
+        dfs(root->right, 10 * tot + root->val);
     }
     int sumNumbers(TreeNode* root) {
         if(!root){
             return 0;
         }
-        return dfs(root, 0);
+        dfs(root, 0);
+        return ans;
     }
 };
