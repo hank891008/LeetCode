@@ -17,9 +17,7 @@ public:
                 }
                 l++;
             }
-            // cout << l << ' ' << r << '\n';
         }
-        ans = max(ans, r - l);
         return ans;
     }
 };
