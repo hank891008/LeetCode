@@ -1,25 +1,38 @@
 class Solution {
 public:
-    bool used[200005];
-    bool dfs(vector<int>G[], int now, int target){
-        used[now] = true;
-        if(now == target){
-            return true;
+    const static int MAXN = 2e5 + 5;
+    int fa[MAXN];
+    int rank[MAXN];
+    void init(int n){
+        for(int i = 0; i < n; i++){
+            fa[i] = i;
+            rank[i] = 1;
         }
-        bool finded = false;
-        for(auto v: G[now]){
-            if(!used[v]){
-                finded |= dfs(G, v, target);
-            }
-        }
-        return finded;
     }
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<int>G[200005];
-        for(int i = 0; i < edges.size(); i++){
-            G[edges[i][0]].emplace_back(edges[i][1]);
-            G[edges[i][1]].emplace_back(edges[i][0]);
+    int findr(int x){
+        return x == fa[x] ? x : fa[x] = findr(fa[x]);
+    }
+    void unite(int x, int y){
+        x = findr(x);
+        y = findr(y);
+        if(x == y){
+            return;
         }
-        return dfs(G, source, destination);
+        if(rank[x] >= rank[y]){
+            fa[y] = x;
+            rank[x] += rank[y];
+        }
+        else{
+            fa[x] = y;
+            rank[y] += rank[x];
+        }
+    }
+    
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        init(n);
+        for(auto edge: edges){
+            unite(edge[0], edge[1]);
+        }
+        return findr(source) == findr(destination);
     }
 };
