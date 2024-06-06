@@ -13,10 +13,8 @@ public:
         }
         vector<string> ans;
         for(int i = 0; i < 26; i++){
-            if(alpha[i] != 0){
-                for(int j = 0; j < alpha[i]; j++){
-                    ans.emplace_back(string(1, 'a' + i));
-                }
+            for(int j = 0; j < alpha[i]; j++){
+                ans.emplace_back(string(1, 'a' + i));
             }
         }
         return ans;
