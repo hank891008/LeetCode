@@ -23,12 +23,10 @@ public:
             unite(num);
         }
         unordered_map<int, int> cnt;
+        int ans = 0;
         for(auto [_, y]: fa){
             cnt[findr(y)]++;
-        }
-        int ans = 0;
-        for(auto [_, c]: cnt){
-            ans = max(ans, c);
+            ans = max(ans, cnt[findr(y)]);
         }
         return ans;
         
