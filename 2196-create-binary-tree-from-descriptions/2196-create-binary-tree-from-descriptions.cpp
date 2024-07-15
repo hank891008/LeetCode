@@ -13,26 +13,27 @@ class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
         unordered_map<int, TreeNode*> m;
-        unordered_set<int>has_p;
-        for(int i = 0; i < descriptions.size(); i++){
-            int parent = descriptions[i][0], child = descriptions[i][1], is_l = descriptions[i][2];
-            has_p.insert(child);
-            if(!m.count(parent)){
-                m[parent] = new TreeNode(parent);
+        set<int> used;
+        for(auto d: descriptions){
+            int fa = d[0], child = d[1], isLeft = d[2];
+            if(!m.count(fa)){
+                m[fa] = new TreeNode(fa);
             }
             if(!m.count(child)){
                 m[child] = new TreeNode(child);
             }
-            if(is_l){
-                m[parent]->left = m[child];
+            if(isLeft){
+                m[fa]->left = m[child];
             }
             else{
-                m[parent]->right = m[child];
+                m[fa]->right = m[child];
             }
+            used.insert(child);
         }
-        for(int i = 0; i < descriptions.size(); i++){
-            if(!has_p.count(descriptions[i][0])){
-                return m[descriptions[i][0]];
+        for(auto node: m){
+            int val = node.first;
+            if(!used.count(val)){
+                return node.second;
             }
         }
         return NULL;
