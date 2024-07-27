@@ -3,7 +3,7 @@ public:
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
         int n = rooms.size();
         vector<vector<int>> G(n);
-        set<int> s;
+        unordered_set<int> s;
         for(int i = 0; i < rooms.size(); i++){
             for(auto room: rooms[i]){
                 G[i].emplace_back(room);
