@@ -10,13 +10,12 @@
  */
 class Solution {
 public:
-    
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         ListNode *slow = head, *fast = head->next;
-        while(slow != NULL && fast != NULL){
-            ListNode* tmp = new ListNode(__gcd(slow->val, fast->val));
-            slow->next = tmp;
-            tmp->next = fast;
+        while(fast != NULL){
+            ListNode *gcd = new ListNode(__gcd(slow->val, fast->val));
+            gcd->next = fast;
+            slow->next = gcd;
             slow = fast;
             fast = fast->next;
         }
