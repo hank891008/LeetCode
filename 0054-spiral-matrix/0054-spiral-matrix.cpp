@@ -1,29 +1,25 @@
 class Solution {
 public:
-    int dir[4][2] = {0, 1,1, 0,0, -1,-1, 0};
-    bool valid(int i, int j, int n, int m){
-        return i >= 0 && i < n && j >= 0 && j < m;
-    }
+    int dir[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        vector<int>ans;
-        int n = matrix.size();
-        int m = matrix[0].size();
-        int i = 0, j = -1;
-        int now = 0;
-        int cnt = 0;
-        bool used[n][m];
-        memset(used, 0, sizeof(used));
-        while(now < n * m){
-            int now_i = i + dir[cnt][0], now_j = j + dir[cnt][1];
-            if(valid(now_i, now_j, n, m) && !used[now_i][now_j]){
-                ans.emplace_back(matrix[now_i][now_j]);
-                used[now_i][now_j] = true;
-                i = now_i;
-                j = now_j;
-                now++;
+        int n = matrix.size(), m = matrix[0].size();
+        vector<int> ans(n * m);
+        int x = 0, y = 0, now = 0;
+        int i = 0;
+        while(i < n * m){
+            ans[i] = matrix[x][y];
+            if(i == n * m - 1){
+                break;
+            }
+            int new_x = x + dir[now][0], new_y = y + dir[now][1];
+            if(new_x >= 0 && new_x < n && new_y >= 0 && new_y < m && matrix[new_x][new_y] != INT_MIN){
+                matrix[x][y] = INT_MIN;
+                x = new_x;
+                y = new_y;
+                i++;
             }
             else{
-                cnt = (cnt + 1) % 4;
+                now = (now + 1) % 4;
             }
         }
         return ans;
