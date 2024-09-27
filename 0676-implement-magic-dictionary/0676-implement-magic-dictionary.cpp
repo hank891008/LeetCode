@@ -1,53 +1,28 @@
 class MagicDictionary {
 public:
-    struct Trie{
-        bool end;
-        Trie* next[26];
-    };
-    Trie* root = new Trie();
+    vector<string> dict;
     MagicDictionary() {
         
     }
-    bool _search(string word){
-        Trie* now = root;
-        for(auto w: word){
-            int idx = w - 'a';
-            if(now->next[idx] == NULL){
-                return false;
-            }
-            now = now->next[idx];
-        }
-        return now->end;
-    }
     
     void buildDict(vector<string> dictionary) {
-        for(auto word: dictionary){
-            Trie* now = root;
-            for(auto w: word){
-                int idx = w - 'a';
-                if(now->next[idx] == NULL){
-                    now->next[idx] = new Trie();
-                }
-                now = now->next[idx];
-            }
-            now->end = true;
-        }
+        dict = dictionary;
     }
     
     bool search(string searchWord) {
-        for(int i = 0; i < searchWord.size(); i++){
-            char origin = searchWord[i];
-            for(int j = 'a'; j <= 'z'; j++){
-                if(origin == j){
-                    continue;
+        for(auto d: dict){
+            if(d.size() == searchWord.size()){
+                int cnt = 0;
+                for(int i = 0; i < d.size(); i++){
+                    cnt += (d[i] != searchWord[i]);
+                    if(cnt >= 2){
+                        break;
+                    }
                 }
-                searchWord[i] = j;
-                if(_search(searchWord)){
+                if(cnt == 1){
                     return true;
                 }
-                
             }
-            searchWord[i] = origin;
         }
         return false;
     }
