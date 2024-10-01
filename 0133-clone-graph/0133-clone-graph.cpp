@@ -25,25 +25,19 @@ public:
         if(!node){
             return NULL;
         }
-        Node* node2 = new Node(node->val);
-        map<int, Node*> m;
-        m[node->val] = node2;
-        queue<pair<Node*, Node*>> q;
-        q.push({node, node2});
+        unordered_map<Node*, Node*> m{{node, new Node(node->val)}};
+        queue<Node*> q{{node}};
         
         while(!q.empty()){
-            auto [u, u2] = q.front();  q.pop();
-            if(u2->neighbors.size() != 0){
-                continue;
-            }
+            auto u = q.front();  q.pop();
             for(auto v: u->neighbors){
-                if(!m.count(v->val)){
-                    m[v->val] = new Node(v->val);
+                if(!m.count(v)){
+                    m[v] = new Node(v->val);
+                    q.push(v);
                 }
-                u2->neighbors.push_back(m[v->val]);
-                q.push({v, m[v->val]});
+                m[u]->neighbors.push_back(m[v]);
             }
         }
-        return node2;
+        return m[node];
     }
 };
