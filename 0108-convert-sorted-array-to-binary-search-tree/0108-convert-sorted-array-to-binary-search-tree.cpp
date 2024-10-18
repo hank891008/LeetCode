@@ -1,15 +1,24 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-class Solution:
-    def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
-        if len(nums) == 0:
-            return None
-        mid = len(nums) // 2
-        return TreeNode(nums[mid], self.sortedArrayToBST(nums[:mid]), self.sortedArrayToBST(nums[mid + 1:]))
-
-    
-    
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    TreeNode* sortedArrayToBST(vector<int>& nums) {
+        if(nums.size() == 0){
+            return NULL;
+        }
+        int mid = nums.size() / 2;
+        vector<int> left(nums.begin(), nums.begin() + mid);
+        vector<int> right(nums.begin() + mid + 1, nums.end());
+        TreeNode* now = new TreeNode(nums[mid], sortedArrayToBST(left), sortedArrayToBST(right));
+        return now;
+    }
+};
