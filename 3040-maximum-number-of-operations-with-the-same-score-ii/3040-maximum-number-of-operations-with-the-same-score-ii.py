@@ -1,7 +1,9 @@
 class Solution:
     def maxOperations(self, nums: List[int]) -> int:
-        @cache
+        memo = {}
         def dfs(i, j, s):
+            if (i, j) in memo:
+                return memo[(i, j)]
             maxx = 0
             if j - i + 1 >= 2:
                 if nums[i] + nums[i + 1] == s:
@@ -10,6 +12,7 @@ class Solution:
                     maxx = max(maxx, 1 + dfs(i + 1, j - 1, s))
                 if nums[j] + nums[j - 1] == s:
                     maxx = max(maxx, 1 + dfs(i, j - 2, s))
+            memo[(i, j)] = maxx
             return maxx
                 
         
