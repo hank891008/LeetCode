@@ -1,9 +1,14 @@
 class Solution {
 public:
+    double cal(vector<int> a, vector<int> b){
+        return sqrt((a[0] - b[0]) * (a[0] - b[0]) + (a[1] - b[1]) * (a[1] - b[1]));
+    }
     double solve(vector<int> a, vector<int> b, vector<int> c){
-        vector<int> A = {b[0] - a[0], b[1] - a[1]};
-        vector<int> B = {c[0] - a[0], c[1] - a[1]};
-        return 0.5 * abs(A[0] * B[1] - B[0] * A[1]);
+        double A = cal(a, b);
+        double B = cal(a, c);
+        double C = cal(b, c);
+        double S = (A + B + C) / 2;
+        return sqrt(S * (S - A) * (S - B) * (S - C));
     }
     double largestTriangleArea(vector<vector<int>>& points) {
         double ans = 0;
