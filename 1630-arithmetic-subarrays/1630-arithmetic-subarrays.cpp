@@ -12,7 +12,6 @@ public:
             return true;
         }
         int k = r - l;
-        cout << minn << ' ' << maxx << ' ' << k << '\n';
         if((maxx - minn) % k != 0){
             return false;
         }
