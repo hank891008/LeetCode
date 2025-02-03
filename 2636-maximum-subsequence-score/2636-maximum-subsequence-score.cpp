@@ -16,10 +16,10 @@ public:
         }
         long long ans = now * p[k - 1].first;
         for(int i = k; i < n; i++){
-            now += p[i].second;
-            pq.emplace(p[i].second);
             now -= pq.top();
             pq.pop();
+            now += p[i].second;
+            pq.emplace(p[i].second);
             ans = max(ans, now * p[i].first);
 
         }
