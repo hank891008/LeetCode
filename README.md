@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1524-string-matching-in-an-array](https://github.com/hank891008/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/hank891008/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hank891008/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hank891008/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/hank891008/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/hank891008/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hank891008/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -137,10 +139,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hank891008/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/hank891008/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/hank891008/LeetCode/tree/master/3447-clear-digits) |
+## Binary Search
+|  |
+| ------- |
+| [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 <!---LeetCode Topics End-->
