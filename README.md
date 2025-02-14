@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hank891008/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2636-maximum-subsequence-score](https://github.com/hank891008/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/hank891008/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hank891008/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hank891008/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hank891008/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
