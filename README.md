@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0831-largest-sum-of-averages](https://github.com/hank891008/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1428-jump-game-iii](https://github.com/hank891008/LeetCode/tree/master/1428-jump-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hank891008/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/hank891008/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/hank891008/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
@@ -113,11 +114,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/hank891008/LeetCode/tree/master/0684-redundant-connection) |
+| [1428-jump-game-iii](https://github.com/hank891008/LeetCode/tree/master/1428-jump-game-iii) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/hank891008/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/hank891008/LeetCode/tree/master/0684-redundant-connection) |
+| [1428-jump-game-iii](https://github.com/hank891008/LeetCode/tree/master/1428-jump-game-iii) |
 ## Union Find
 |  |
 | ------- |
