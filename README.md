@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hank891008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0831-largest-sum-of-averages](https://github.com/hank891008/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hank891008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hank891008/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hank891008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/hank891008/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hank891008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hank891008/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hank891008/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hank891008/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
