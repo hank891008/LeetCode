@@ -1,12 +1,16 @@
 class Solution {
 public:
     bool checkPowersOfThree(int n) {
-        while(n > 0){
-            if(n % 3 == 2){
-                return false;
-            }
-            n /= 3;
+        int max_pow = 1;
+        while(max_pow < 1e7){
+            max_pow *= 3;
         }
-        return true;
+        while(max_pow > 0 && n > 0){
+            if(n >= max_pow){
+                n -= max_pow;
+            }
+            max_pow /= 3;
+        }
+        return n == 0;
     }
 };
