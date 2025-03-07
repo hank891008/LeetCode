@@ -1,23 +1,22 @@
 class Solution {
 public:
-    bool isPrime(int x){
-        if(x == 1){
-            return false;
-        }
-        else if(x == 2){
-            return true;
-        }
-        for(int i = 2; i <= sqrt(x); i++){
-            if(x % i == 0){
-                return false;
+    vector<int> getPrime(int upper){
+        vector<int> p(upper + 1, 1);
+        p[0] = p[1] = false;
+        for(int i = 2; i * i <= upper; i++){
+            if(p[i]){
+                for(int j = i * i; j <= upper; j += i){
+                    p[j] = 0;
+                }
             }
         }
-        return true;
+        return p;
     }
     vector<int> closestPrimes(int left, int right) {
+        vector<int> prime = getPrime(right);
         vector<int> p;
         for(int i = left; i <= right; i++){
-            if(isPrime(i)){
+            if(prime[i]){
                 p.emplace_back(i);
             }
         }
