@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/hank891008/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hank891008/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hank891008/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/hank891008/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3199-distribute-candies-among-children-i](https://github.com/hank891008/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hank891008/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/hank891008/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/hank891008/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Depth-First Search
 |  |
 | ------- |
