@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/hank891008/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/hank891008/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hank891008/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/hank891008/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/hank891008/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hank891008/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/hank891008/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/hank891008/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/hank891008/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hank891008/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/hank891008/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/hank891008/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hank891008/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/hank891008/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/hank891008/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/hank891008/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hank891008/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
