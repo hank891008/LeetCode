@@ -2,11 +2,9 @@ class Solution {
 public:
     vector<int> fa, min_weight;
     void init(int n){
-        min_weight.assign(n, 0xffffffff);
         fa.resize(n);
-        for(int i = 0; i < n; i++){
-            fa[i] = i;
-        }
+        iota(fa.begin(), fa.end(), 0);
+        min_weight.assign(n, 0xffffffff);
     }
     int findr(int x){
         return x == fa[x] ? fa[x] : fa[x] = findr(fa[x]);
