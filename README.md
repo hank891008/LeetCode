@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/hank891008/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/hank891008/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/hank891008/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/hank891008/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/hank891008/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hank891008/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/hank891008/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hank891008/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/hank891008/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/hank891008/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hank891008/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/hank891008/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/hank891008/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hank891008/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hank891008/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hank891008/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hank891008/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/hank891008/LeetCode/tree/master/2690-house-robber-iv) |
