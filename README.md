@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/hank891008/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hank891008/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hank891008/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hank891008/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hank891008/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hank891008/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/hank891008/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/hank891008/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hank891008/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hank891008/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hank891008/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hank891008/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/hank891008/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/hank891008/LeetCode/tree/master/0684-redundant-connection) |
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hank891008/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hank891008/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hank891008/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hank891008/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Sliding Window
 |  |
 | ------- |
