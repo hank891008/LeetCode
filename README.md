@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3463-alternating-groups-i](https://github.com/hank891008/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hank891008/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/hank891008/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hank891008/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/hank891008/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hank891008/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3430-count-days-without-meetings](https://github.com/hank891008/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hank891008/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
