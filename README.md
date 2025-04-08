@@ -423,4 +423,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/hank891008/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hank891008/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/hank891008/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
