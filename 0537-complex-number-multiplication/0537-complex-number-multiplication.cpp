@@ -36,7 +36,11 @@ public:
         auto n1 = solve(num1), n2 = solve(num2);
         int a = n1.first * n2.first - n1.second * n2.second;
         int b = n1.first * n2.second + n2.first * n1.second;
-        string ans = to_string(a) + "+" + to_string(b) + "i";
+        string ans;
+        ans += to_string(a);
+        ans += '+';
+        ans += to_string(b);
+        ans += 'i';
         return ans;
     }
 };
