@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/complex-number-multiplication/">537. Complex Number Multiplication</a></h2><h3>Medium</h3><hr><div><p>A <a href="https://en.wikipedia.org/wiki/Complex_number" target="_blank">complex number</a> can be represented as a string on the form <code>"<strong>real</strong>+<strong>imaginary</strong>i"</code> where:</p>
+<h2><a href="https://leetcode.com/problems/complex-number-multiplication">537. Complex Number Multiplication</a></h2><h3>Medium</h3><hr><p>A <a href="https://en.wikipedia.org/wiki/Complex_number" target="_blank">complex number</a> can be represented as a string on the form <code>&quot;<strong>real</strong>+<strong>imaginary</strong>i&quot;</code> where:</p>
 
 <ul>
 	<li><code>real</code> is the real part and is an integer in the range <code>[-100, 100]</code>.</li>
@@ -11,15 +11,17 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> num1 = "1+1i", num2 = "1+1i"
-<strong>Output:</strong> "0+2i"
+<pre>
+<strong>Input:</strong> num1 = &quot;1+1i&quot;, num2 = &quot;1+1i&quot;
+<strong>Output:</strong> &quot;0+2i&quot;
 <strong>Explanation:</strong> (1 + i) * (1 + i) = 1 + i2 + 2 * i = 2i, and you need convert it to the form of 0+2i.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> num1 = "1+-1i", num2 = "1+-1i"
-<strong>Output:</strong> "0+-2i"
+<pre>
+<strong>Input:</strong> num1 = &quot;1+-1i&quot;, num2 = &quot;1+-1i&quot;
+<strong>Output:</strong> &quot;0+-2i&quot;
 <strong>Explanation:</strong> (1 - i) * (1 - i) = 1 + i2 - 2 * i = -2i, and you need convert it to the form of 0+-2i.
 </pre>
 
@@ -29,4 +31,3 @@
 <ul>
 	<li><code>num1</code> and <code>num2</code> are valid complex numbers.</li>
 </ul>
-</div>
