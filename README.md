@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/hank891008/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/hank891008/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hank891008/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0915-generate-random-point-in-a-circle](https://github.com/hank891008/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/hank891008/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hank891008/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/hank891008/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -474,4 +475,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hank891008/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Geometry
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/hank891008/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/hank891008/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
+## Randomized
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/hank891008/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
