@@ -5,16 +5,22 @@ public:
         for(auto num: nums){
             s.insert(num);
         }
+        int i = 0, j = 0;
         int ans = 0;
-        for(int i = 0; i < nums.size(); i++){
-            map<int, int> mp;
-            for(int j = i; j < nums.size(); j++){
+        unordered_map<int, int> mp;
+        while(i < nums.size()){
+            while(j < nums.size() && mp.size() < s.size()){
                 mp[nums[j]]++;
-                if(mp.size() == s.size()){
-                    ans += nums.size() - j;
-                    break;
-                }
+                j++;
             }
+            if(mp.size() == s.size()){
+                ans += (nums.size() - j + 1);
+            }
+            mp[nums[i]]--;
+            if(mp[nums[i]] == 0){
+                mp.erase(nums[i]);
+            }
+            i++;
         }
         return ans;
     }
