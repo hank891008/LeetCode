@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/hank891008/LeetCode/tree/master/2690-house-robber-iv) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/hank891008/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hank891008/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/hank891008/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hank891008/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hank891008/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hank891008/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hank891008/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/hank891008/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/hank891008/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/hank891008/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/hank891008/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hank891008/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/hank891008/LeetCode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/hank891008/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/hank891008/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/hank891008/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/hank891008/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/hank891008/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/hank891008/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
