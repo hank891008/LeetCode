@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/hank891008/LeetCode/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/hank891008/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-video-stitching](https://github.com/hank891008/LeetCode/tree/master/1081-video-stitching) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hank891008/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-minimum-absolute-difference](https://github.com/hank891008/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/hank891008/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hank891008/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/hank891008/LeetCode/tree/master/0768-partition-labels) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/hank891008/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-video-stitching](https://github.com/hank891008/LeetCode/tree/master/1081-video-stitching) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/hank891008/LeetCode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
