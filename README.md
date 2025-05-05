@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hank891008/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hank891008/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/hank891008/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/hank891008/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2784-power-of-heroes](https://github.com/hank891008/LeetCode/tree/master/2784-power-of-heroes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hank891008/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/hank891008/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hank891008/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hank891008/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hank891008/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/hank891008/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/hank891008/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hank891008/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2434-design-a-number-container-system](https://github.com/hank891008/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hank891008/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hank891008/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/hank891008/LeetCode/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hank891008/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2610-closest-prime-numbers-in-range](https://github.com/hank891008/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/hank891008/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/hank891008/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
