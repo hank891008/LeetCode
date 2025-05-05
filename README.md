@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/hank891008/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hank891008/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2434-design-a-number-container-system](https://github.com/hank891008/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hank891008/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hank891008/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hank891008/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2434-design-a-number-container-system](https://github.com/hank891008/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/hank891008/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/hank891008/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hank891008/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2434-design-a-number-container-system](https://github.com/hank891008/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -543,4 +546,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/hank891008/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/hank891008/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
