@@ -12,9 +12,6 @@ public:
     }
     
     int find(int number) {
-        if(!mp.count(number)){
-            return -1;
-        }
         while(!mp[number].empty()){
             int idx = mp[number].top();
             if(table[idx] == number){
