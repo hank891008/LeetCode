@@ -11,16 +11,18 @@ class Solution {
 public:
     int guessNumber(int n) {
         int l = 1, r = n;
-        while(l <= r){
+        while (l < r && r - l > 32) {
             int mid = l + (r - l) / 2;
-            if(guess(mid) > 0){
+            int res = guess(mid);
+            if (res > 0) {
                 l = mid + 1;
-            }
-            else if(guess(mid) == 0){
-                return mid;
-            }
-            else{
+            } else {
                 r = mid;
+            }
+        }
+        for (int i = l; i <= r; ++i) {
+            if (guess(i) == 0) {
+                return i;
             }
         }
         return -1;
