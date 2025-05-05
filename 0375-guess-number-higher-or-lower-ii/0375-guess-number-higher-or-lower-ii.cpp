@@ -1,6 +1,6 @@
 class Solution {
 public:
-    map<pair<int, int>, int> used;
+    int used[205][205];
     int dfs(int s, int e){
         if(s >= e){
             return 0;
@@ -8,17 +8,18 @@ public:
         if(s + 1 == e){
             return s;
         }
-        if(!used[{s, e}]){
+        if(used[s][e] == -1){
             int minn = INT_MAX;
             for(int i = s + 1; i < e; i++){
                 minn = min(minn, i + max(dfs(s, i - 1), dfs(i + 1, e)));
             }
-            used[{s, e}] = minn;
+            used[s][e] = minn;
         }
-        return used[{s, e}];
+        return used[s][e];
     }
 
     int getMoneyAmount(int n) {
+        memset(used, -1, sizeof(used));
         return dfs(1, n);
     }
 };
