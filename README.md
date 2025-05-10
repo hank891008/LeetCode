@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hank891008/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hank891008/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hank891008/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hank891008/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/hank891008/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/hank891008/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hank891008/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/hank891008/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/hank891008/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hank891008/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hank891008/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
 | ------- |
