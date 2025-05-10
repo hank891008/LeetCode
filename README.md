@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/hank891008/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/hank891008/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2378-sender-with-largest-word-count](https://github.com/hank891008/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/hank891008/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/hank891008/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hank891008/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hank891008/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
+| [2378-sender-with-largest-word-count](https://github.com/hank891008/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hank891008/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/hank891008/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hank891008/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
+| [2378-sender-with-largest-word-count](https://github.com/hank891008/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2434-design-a-number-container-system](https://github.com/hank891008/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hank891008/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hank891008/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/hank891008/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2378-sender-with-largest-word-count](https://github.com/hank891008/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hank891008/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hank891008/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
