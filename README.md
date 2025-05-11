@@ -259,10 +259,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/hank891008/LeetCode/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hank891008/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/hank891008/LeetCode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/hank891008/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/hank891008/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hank891008/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
