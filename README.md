@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-minimum-absolute-difference](https://github.com/hank891008/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hank891008/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1364-tuple-with-same-product](https://github.com/hank891008/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hank891008/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hank891008/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hank891008/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/hank891008/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hank891008/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/hank891008/LeetCode/tree/master/1500-count-largest-group) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/hank891008/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hank891008/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1364-tuple-with-same-product](https://github.com/hank891008/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/hank891008/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2378-sender-with-largest-word-count](https://github.com/hank891008/LeetCode/tree/master/2378-sender-with-largest-word-count) |
