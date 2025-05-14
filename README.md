@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/hank891008/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hank891008/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0831-largest-sum-of-averages](https://github.com/hank891008/LeetCode/tree/master/0831-largest-sum-of-averages) |
+| [0863-sum-of-distances-in-tree](https://github.com/hank891008/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1081-video-stitching](https://github.com/hank891008/LeetCode/tree/master/1081-video-stitching) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hank891008/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/hank891008/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hank891008/LeetCode/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hank891008/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0863-sum-of-distances-in-tree](https://github.com/hank891008/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1035-cousins-in-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/hank891008/LeetCode/tree/master/0684-redundant-connection) |
+| [0863-sum-of-distances-in-tree](https://github.com/hank891008/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hank891008/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hank891008/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/hank891008/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hank891008/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hank891008/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0863-sum-of-distances-in-tree](https://github.com/hank891008/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
