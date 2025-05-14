@@ -1,41 +1,32 @@
 class Solution {
 public:
-    vector<int> topoSort(vector<vector<int>>& G){
-        int n = G.size();
-        vector<int> indeg(n), ret;
-        for(auto &li: G){
-            for(int x: li){
-                ++indeg[x];
-            }
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<int> in_deg(numCourses);
+        vector<int> ans;
+        vector<vector<int>> G(numCourses);
+        for(auto p: prerequisites){
+            int b = p[0], a = p[1];
+            G[a].emplace_back(b);
+            in_deg[b]++;
         }
         queue<int> q;
-        for(int i = 0; i < n; i++){
-            if(indeg[i] == 0){
+        for(int i = 0; i < numCourses; i++){
+            if(in_deg[i] == 0){
                 q.emplace(i);
             }
         }
         while(!q.empty()){
-            int u = q.front();  q.pop();
-            ret.emplace_back(u);
-            for(int v: G[u]){
-                if(--indeg[v] == 0){
+            auto u = q.front();   q.pop();
+            ans.emplace_back(u);
+            for(auto v: G[u]){
+                if(--in_deg[v] == 0){
                     q.emplace(v);
                 }
             }
         }
-        return ret;
-    }
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-       vector<vector<int>> G;
-        G.resize(numCourses);
-        for(int i = 0; i < prerequisites.size(); i++){
-            int u = prerequisites[i][1], v = prerequisites[i][0];
-            G[u].emplace_back(v);
+        if(ans.size() == numCourses){
+            return ans;
         }
-        vector<int> ret = topoSort(G);
-        if(ret.size() < numCourses){
-            return {};
-        }
-        return ret;
+        return {};
     }
 };
