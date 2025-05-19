@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-detonate-the-maximum-bombs](https://github.com/hank891008/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hank891008/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hank891008/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/hank891008/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-detonate-the-maximum-bombs](https://github.com/hank891008/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hank891008/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hank891008/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/hank891008/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1396-count-servers-that-communicate](https://github.com/hank891008/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hank891008/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/hank891008/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hank891008/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hank891008/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hank891008/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hank891008/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/hank891008/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hank891008/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Sliding Window
 |  |
