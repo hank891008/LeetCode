@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/hank891008/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2378-sender-with-largest-word-count](https://github.com/hank891008/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2448-count-number-of-bad-pairs](https://github.com/hank891008/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/hank891008/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2465-shifting-letters-ii](https://github.com/hank891008/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2378-sender-with-largest-word-count](https://github.com/hank891008/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2434-design-a-number-container-system](https://github.com/hank891008/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/hank891008/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hank891008/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hank891008/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/hank891008/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2378-sender-with-largest-word-count](https://github.com/hank891008/LeetCode/tree/master/2378-sender-with-largest-word-count) |
+| [2448-count-number-of-bad-pairs](https://github.com/hank891008/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hank891008/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hank891008/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hank891008/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/hank891008/LeetCode/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hank891008/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
+| [2448-count-number-of-bad-pairs](https://github.com/hank891008/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/hank891008/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/hank891008/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/hank891008/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
