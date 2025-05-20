@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hank891008/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hank891008/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/hank891008/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3795-zero-array-transformation-iv](https://github.com/hank891008/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/hank891008/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hank891008/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/hank891008/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3795-zero-array-transformation-iv](https://github.com/hank891008/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 ## Prefix Sum
 |  |
 | ------- |
