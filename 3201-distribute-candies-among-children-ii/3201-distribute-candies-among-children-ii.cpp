@@ -1,21 +1,17 @@
 class Solution {
 public:
-    long long comb2(int x){
-        return 1LL * (x) * (x - 1) / 2;
-    }
-    long long distributeCandies(int n, int m) {
-        if(m * 3 < n){
-            return 0;
+    long long distributeCandies(int n, int limit) {
+        long long ans = 0;
+        for(int i = 0; i <= min(n, limit); i++){
+            if(n - i > 2 * limit){
+                continue;
+            }
+            else{
+                int maxx = min(n - i, limit);
+                int minn = max(0, n - i - limit);
+                ans += maxx - minn + 1;
+            }
         }
-        else if(n >= 0 && n < m + 1){
-            return comb2(n + 2);
-        }
-        else if(n < 2 * (m + 1)){
-            return comb2(n + 2) - 3 * comb2(n + 2 - (m + 1));
-        }
-        else if(n < 3 * (m + 1)){
-            return comb2(n + 2) - 3 * comb2(n + 2 - (m + 1)) + 3 * comb2(n + 2 - 2 * (m + 1));
-        }
-        return comb2(n + 2) - 3 * comb2(n + 2 - (m + 1)) + 3 * comb2(n + 2 - 2 * (m + 1)) -  3 * comb2(n + 2 - 3 * (m + 1));
+        return ans;
     }
 };
