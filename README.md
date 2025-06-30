@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hank891008/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hank891008/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/hank891008/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hank891008/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/hank891008/LeetCode/tree/master/1656-count-good-triplets) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/hank891008/LeetCode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/hank891008/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-minimum-absolute-difference](https://github.com/hank891008/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/hank891008/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hank891008/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/hank891008/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hank891008/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/hank891008/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/hank891008/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/hank891008/LeetCode/tree/master/0768-partition-labels) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hank891008/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/hank891008/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/hank891008/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -507,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/hank891008/LeetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hank891008/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hank891008/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hank891008/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
