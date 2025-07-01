@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hank891008/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/hank891008/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hank891008/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3617-find-the-original-typed-string-i](https://github.com/hank891008/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hank891008/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hank891008/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/hank891008/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
