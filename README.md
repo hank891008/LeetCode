@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/hank891008/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/hank891008/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hank891008/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hank891008/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/hank891008/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/hank891008/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/hank891008/LeetCode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/hank891008/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hank891008/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/hank891008/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/hank891008/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hank891008/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/hank891008/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hank891008/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hank891008/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/hank891008/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2784-power-of-heroes](https://github.com/hank891008/LeetCode/tree/master/2784-power-of-heroes) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hank891008/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -481,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/hank891008/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hank891008/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hank891008/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hank891008/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/hank891008/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/hank891008/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hank891008/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
