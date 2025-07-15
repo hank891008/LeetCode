@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hank891008/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/hank891008/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hank891008/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3396-valid-word](https://github.com/hank891008/LeetCode/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hank891008/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/hank891008/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hank891008/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
