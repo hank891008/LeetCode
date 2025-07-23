@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/hank891008/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/hank891008/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hank891008/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hank891008/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/hank891008/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-find-latest-group-of-size-m](https://github.com/hank891008/LeetCode/tree/master/1684-find-latest-group-of-size-m) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/hank891008/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/hank891008/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/hank891008/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/hank891008/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hank891008/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hank891008/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hank891008/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hank891008/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1813-maximum-erasure-value](https://github.com/hank891008/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hank891008/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/hank891008/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hank891008/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
