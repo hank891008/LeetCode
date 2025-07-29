@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hank891008/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hank891008/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/hank891008/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/hank891008/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hank891008/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hank891008/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hank891008/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/hank891008/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hank891008/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hank891008/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/hank891008/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2262-solving-questions-with-brainpower](https://github.com/hank891008/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/hank891008/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/hank891008/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/hank891008/LeetCode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hank891008/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hank891008/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/hank891008/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hank891008/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/hank891008/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hank891008/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -564,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hank891008/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hank891008/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/hank891008/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/hank891008/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/hank891008/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
@@ -682,4 +686,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hank891008/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Bitmask
+|  |
+| ------- |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/hank891008/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 <!---LeetCode Topics End-->
