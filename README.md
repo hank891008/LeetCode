@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hank891008/LeetCode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/hank891008/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hank891008/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/hank891008/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hank891008/LeetCode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/hank891008/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hank891008/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0435-non-overlapping-intervals](https://github.com/hank891008/LeetCode/tree/master/0435-non-overlapping-intervals) |
