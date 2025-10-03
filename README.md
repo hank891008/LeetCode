@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hank891008/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/hank891008/LeetCode/tree/master/0792-binary-search) |
 | [0831-largest-sum-of-averages](https://github.com/hank891008/LeetCode/tree/master/0831-largest-sum-of-averages) |
+| [0943-sum-of-subarray-minimums](https://github.com/hank891008/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/hank891008/LeetCode/tree/master/1036-rotting-oranges) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hank891008/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0831-largest-sum-of-averages](https://github.com/hank891008/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0863-sum-of-distances-in-tree](https://github.com/hank891008/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
+| [0943-sum-of-subarray-minimums](https://github.com/hank891008/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1081-video-stitching](https://github.com/hank891008/LeetCode/tree/master/1081-video-stitching) |
 | [1117-as-far-from-land-as-possible](https://github.com/hank891008/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/hank891008/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/hank891008/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3447-clear-digits](https://github.com/hank891008/LeetCode/tree/master/3447-clear-digits) |
@@ -705,4 +708,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/hank891008/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/hank891008/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
