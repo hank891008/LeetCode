@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/hank891008/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hank891008/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/hank891008/LeetCode/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/hank891008/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/hank891008/LeetCode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/hank891008/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/hank891008/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
