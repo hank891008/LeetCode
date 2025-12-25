@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1117-as-far-from-land-as-possible](https://github.com/hank891008/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hank891008/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hank891008/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/hank891008/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/hank891008/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/hank891008/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1081-video-stitching](https://github.com/hank891008/LeetCode/tree/master/1081-video-stitching) |
 | [1117-as-far-from-land-as-possible](https://github.com/hank891008/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/hank891008/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hank891008/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/hank891008/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1748-best-team-with-no-conflicts](https://github.com/hank891008/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/hank891008/LeetCode/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/hank891008/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-video-stitching](https://github.com/hank891008/LeetCode/tree/master/1081-video-stitching) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/hank891008/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/hank891008/LeetCode/tree/master/1448-maximum-69-number) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/hank891008/LeetCode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -494,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/hank891008/LeetCode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/hank891008/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/hank891008/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/hank891008/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/hank891008/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/hank891008/LeetCode/tree/master/1561-rearrange-words-in-a-sentence) |
