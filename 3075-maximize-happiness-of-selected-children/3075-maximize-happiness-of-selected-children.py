@@ -3,5 +3,7 @@ class Solution:
         happiness = sorted(happiness, reverse=True)
         ans = 0
         for i in range(k):
-            ans += max(happiness[i] - i, 0)
+            if happiness[i] - i <= 0:
+                return ans
+            ans += (happiness[i] - i)
         return ans
