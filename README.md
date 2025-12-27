@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/hank891008/LeetCode/tree/master/0792-binary-search) |
 | [0831-largest-sum-of-averages](https://github.com/hank891008/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0943-sum-of-subarray-minimums](https://github.com/hank891008/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hank891008/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1025-minimum-cost-for-tickets](https://github.com/hank891008/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/hank891008/LeetCode/tree/master/1036-rotting-oranges) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/hank891008/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/hank891008/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/hank891008/LeetCode/tree/master/0768-partition-labels) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hank891008/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-letter-tile-possibilities](https://github.com/hank891008/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hank891008/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
