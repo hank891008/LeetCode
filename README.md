@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/hank891008/LeetCode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hank891008/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hank891008/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/hank891008/LeetCode/tree/master/3379-transformed-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/hank891008/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/hank891008/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/hank891008/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/hank891008/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/hank891008/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2886-faulty-keyboard](https://github.com/hank891008/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3379-transformed-array](https://github.com/hank891008/LeetCode/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hank891008/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hank891008/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/hank891008/LeetCode/tree/master/3447-clear-digits) |
