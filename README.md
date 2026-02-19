@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0537-complex-number-multiplication](https://github.com/hank891008/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/hank891008/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/hank891008/LeetCode/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/hank891008/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/hank891008/LeetCode/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/hank891008/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-letter-tile-possibilities](https://github.com/hank891008/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/hank891008/LeetCode/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/hank891008/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/hank891008/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/hank891008/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/hank891008/LeetCode/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hank891008/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
