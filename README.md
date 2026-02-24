@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/hank891008/LeetCode/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/hank891008/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hank891008/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/hank891008/LeetCode/tree/master/0868-binary-gap) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/hank891008/LeetCode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hank891008/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hank891008/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
