@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hank891008/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/hank891008/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hank891008/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/hank891008/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hank891008/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/hank891008/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hank891008/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/hank891008/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hank891008/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hank891008/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
