@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-video-stitching](https://github.com/hank891008/LeetCode/tree/master/1081-video-stitching) |
 | [1117-as-far-from-land-as-possible](https://github.com/hank891008/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hank891008/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1202-smallest-string-with-swaps](https://github.com/hank891008/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hank891008/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/hank891008/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/hank891008/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/hank891008/LeetCode/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/hank891008/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-letter-tile-possibilities](https://github.com/hank891008/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1202-smallest-string-with-swaps](https://github.com/hank891008/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hank891008/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hank891008/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hank891008/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hank891008/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/hank891008/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1202-smallest-string-with-swaps](https://github.com/hank891008/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hank891008/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/hank891008/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hank891008/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1202-smallest-string-with-swaps](https://github.com/hank891008/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/hank891008/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -440,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/hank891008/LeetCode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/hank891008/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hank891008/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1202-smallest-string-with-swaps](https://github.com/hank891008/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hank891008/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hank891008/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/hank891008/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -521,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/hank891008/LeetCode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/hank891008/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/hank891008/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1202-smallest-string-with-swaps](https://github.com/hank891008/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/hank891008/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/hank891008/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -786,4 +792,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hank891008/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [1202-smallest-string-with-swaps](https://github.com/hank891008/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
