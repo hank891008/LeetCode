@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/hank891008/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hank891008/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/hank891008/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/hank891008/LeetCode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/hank891008/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/hank891008/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hank891008/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hank891008/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0915-generate-random-point-in-a-circle](https://github.com/hank891008/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hank891008/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/hank891008/LeetCode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hank891008/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/hank891008/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/hank891008/LeetCode/tree/master/1448-maximum-69-number) |
