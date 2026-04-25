@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hank891008/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/hank891008/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hank891008/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/hank891008/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2107-find-unique-binary-string](https://github.com/hank891008/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/hank891008/LeetCode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hank891008/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/hank891008/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/hank891008/LeetCode/tree/master/1448-maximum-69-number) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/hank891008/LeetCode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/hank891008/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hank891008/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/hank891008/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hank891008/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
