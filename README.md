@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/hank891008/LeetCode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/hank891008/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2886-faulty-keyboard](https://github.com/hank891008/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/hank891008/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hank891008/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/hank891008/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hank891008/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hank891008/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hank891008/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2953-count-pairs-of-points-with-distance-k](https://github.com/hank891008/LeetCode/tree/master/2953-count-pairs-of-points-with-distance-k) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/hank891008/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/hank891008/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hank891008/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hank891008/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
