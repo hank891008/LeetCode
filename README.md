@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hank891008/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/hank891008/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3795-zero-array-transformation-iv](https://github.com/hank891008/LeetCode/tree/master/3795-zero-array-transformation-iv) |
+| [3838-weighted-word-mapping](https://github.com/hank891008/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hank891008/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hank891008/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/hank891008/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3838-weighted-word-mapping](https://github.com/hank891008/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/hank891008/LeetCode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hank891008/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/hank891008/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/hank891008/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
