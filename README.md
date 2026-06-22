@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/hank891008/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/hank891008/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hank891008/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/hank891008/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hank891008/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/hank891008/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/hank891008/LeetCode/tree/master/1923-sentence-similarity-iii) |
