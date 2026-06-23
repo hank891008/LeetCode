@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hank891008/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/hank891008/LeetCode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hank891008/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/hank891008/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/hank891008/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/hank891008/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/hank891008/LeetCode/tree/master/1923-sentence-similarity-iii) |
