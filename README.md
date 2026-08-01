@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/hank891008/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/hank891008/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/hank891008/LeetCode/tree/master/0475-heaters) |
+| [0486-predict-the-winner](https://github.com/hank891008/LeetCode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/hank891008/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/hank891008/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/hank891008/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/hank891008/LeetCode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/hank891008/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/hank891008/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/hank891008/LeetCode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hank891008/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0831-largest-sum-of-averages](https://github.com/hank891008/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0863-sum-of-distances-in-tree](https://github.com/hank891008/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/hank891008/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hank891008/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/hank891008/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/hank891008/LeetCode/tree/master/0486-predict-the-winner) |
 | [0537-complex-number-multiplication](https://github.com/hank891008/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hank891008/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0915-generate-random-point-in-a-circle](https://github.com/hank891008/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
@@ -810,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hank891008/LeetCode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/hank891008/LeetCode/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/hank891008/LeetCode/tree/master/2050-count-good-numbers) |
 ## Segment Tree
 |  |
@@ -841,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/hank891008/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/hank891008/LeetCode/tree/master/0486-predict-the-winner) |
 ## Bitmask
 |  |
 | ------- |
